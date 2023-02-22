@@ -1,0 +1,11 @@
+{
+  "name": "TugasAkhir",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts" : {
+    "tsc" : "tsc",
+    "ts" : "tsc -w",
+    "dev" : "nodemon ./build/soal5.js"
+  }
+}
